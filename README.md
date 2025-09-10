@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LeerzeJCap
+- 💫 I'm a graphic designer 
 - 👀 I’m interested in Front and Backend Web Designing
 - 🌱 I’m currently learning HTLM and CSS
 - 💞️ I’m looking to collaborate on Full Stack Designing 
